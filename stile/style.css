@@ -1,0 +1,28 @@
+*{
+    margin:0 ;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    align-items: center;
+    padding: 60px 80px;
+    justify-content: space-between;
+}
+
+h1 a{
+    color: black;
+    font-size: 20px;
+}
+li a{
+    color: black;
+    font-size: 20px;
+}
+ul{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 563px;
+}
